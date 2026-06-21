@@ -1,0 +1,11 @@
+[project]
+name = "wedepanne"
+version = "1.0.0"
+description = "we Depanne - Mise en relation clients / artisans"
+requires-python = ">=3.9"
+dependencies = ["flet==0.24.1"]
+
+[tool.flet]
+org = "com.wedepanne"
+product = "we Depanne"
+company = "we Depanne"
